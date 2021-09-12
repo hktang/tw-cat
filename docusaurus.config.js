@@ -22,14 +22,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/hktang13/tw-cat/edit/main/website/',
+          editUrl: 'https://github.com/hktang13/tw-cat/tree/main/docs/',
         },
-        //blog: {
-        //  showReadingTime: true,
+        blog: {
+          showReadingTime: true,
           // Please change this to your repo.
-        //  editUrl:
-        //    'https://github.com/facebook/docusaurus/edit/main/website/blog/',
-        //},
+          editUrl:
+            'https://github.com/hktang13/tw-cat/tree/main/blog/',
+        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -43,7 +43,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
       navbar: {
         title: 'TW-CAT',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Site Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -78,24 +78,20 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             ],
           },
           {
-            title: 'Community',
+            title: '链接',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Docusaurus',
+                href: 'https://docusaurus.io/',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
+                label: 'Markdown',
+                href: 'https://daringfireball.net/projects/markdown/syntax',
+              }
             ],
           },
           {
-            title: '查看源码',
+            title: '源码',
             items: [
               {
                 label: 'GitHub',
