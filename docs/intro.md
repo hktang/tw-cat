@@ -1,8 +1,9 @@
 ---
 sidebar_position: 1
+sidebar_label: '提纲'
 ---
 
-# Tutorial Intro
+# 提纲
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
