@@ -14,7 +14,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   organizationName: 'hktang13', // Usually your GitHub org/user name.
   projectName: 'tw-cat', // Usually your repo name.
 
-i18n: {    defaultLocale: 'zh',    locales: ['en'],  },
+  i18n: {
+    defaultLocale: 'zh',
+    locales: ['en','zh'],  
+  },
 
   presets: [
     [

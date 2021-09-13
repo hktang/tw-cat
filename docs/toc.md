@@ -1,36 +1,35 @@
 ---
 sidebar_position: 1
-sidebar_label: '提纲'
+sidebar_label: '课程大纲'
 ---
 
-# 提纲
+# 课程大纲
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## 技术写作
 
-## Getting Started
+### 常见的写作风格南介绍
 
-Get started by **creating a new site**.
+- 国际机构（联合国）
+- IT企业（微软、IBM等）
+- 新闻机构（Associated Press等）
+- 通用（Chicago、APA等）
+- 中文的风格指南
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## 文档工程
 
-## Generate a new site
+### 工具/技术篇
 
-Generate a new Docusaurus site using the **classic template**:
+- Markdown
+- Pandoc,  Docusaurus, MkDocs, Sphinx
+- Notepad++, VS Code
 
-```shell
-npx @docusaurus/init@latest init my-website classic
-```
+### 实操篇
 
-## Start your site
+- 应用写作：自选主题+选定一个风格指南进行互评
+- 工具应用（Notepad++、VS Code、Sublime Text等）
+- 正则表达式
 
-Run the development server:
+## 计算机辅助翻译
 
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
+- 常见工具
+- 翻译流程
