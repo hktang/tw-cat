@@ -13,7 +13,7 @@ const FeatureList = [
     ),
   },
   {
-    title: '操作',
+    title: '实操',
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
@@ -22,11 +22,11 @@ const FeatureList = [
     ),
   },
   {
-    title: '提高',
+    title: '反馈',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        欢迎感兴趣的小伙伴加入，丰富这个课程。
+        欢迎感兴趣的小伙伴加入讨论、修订，丰富这个课程。
       </>
     ),
   },

@@ -14,6 +14,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   organizationName: 'hktang13', // Usually your GitHub org/user name.
   projectName: 'tw-cat', // Usually your repo name.
 
+i18n: {    defaultLocale: 'zh',    locales: ['en'],  },
+
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -49,11 +51,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'toc',
             position: 'left',
-            label: 'Tutorial',
+            label: '提纲',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          //{
+          //  type: 'localeDropdown',
+          //},
+          {to: '/blog', label: '博客', position: 'left'},
           {
             href: 'https://github.com/hktang13/tw-cat',
             label: 'GitHub',
