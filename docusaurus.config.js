@@ -13,12 +13,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   favicon: 'img/favicon.ico',
   organizationName: 'hktang13', // Usually your GitHub org/user name.
   projectName: 'tw-cat', // Usually your repo name.
-
-  i18n: {
-    defaultLocale: 'zh',
-    locales: ['en','zh'],  
-  },
-
+  
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -77,7 +72,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             items: [
               {
                 label: '技术写作',
-                to: '/docs/tw/intro',
+                to: '/docs/tech-writing/intro',
+              },
+              {
+                label: '文档工程',
+                to: '/docs/doc-engineering/intro',
               },
               {
                 label: '计算机辅助翻译',
