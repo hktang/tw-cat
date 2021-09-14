@@ -51,9 +51,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             type: 'doc',
             docId: 'toc/prologue',
             position: 'left',
-            label: '大纲',
+            label: '课程',
           },
-          {to: '/blog', label: '博客', position: 'left'},
+          {to: '/blog', label: '日志', position: 'left'},
           {
             href: 'https://github.com/hktang13/tw-cat',
             label: 'GitHub',
