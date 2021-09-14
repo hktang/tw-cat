@@ -4,16 +4,16 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
-  title: '技术写作与计算机辅助翻译',
-  tagline: '快速入门',
-  url: 'https://example.com',
+  title: 'TW-CAT',
+  tagline: '技术写作与计算机辅助翻译',
+  url: 'https://tw-cat.vercel.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'hktang13', // Usually your GitHub org/user name.
-  projectName: 'tw-cat', // Usually your repo name.
-  
+  organizationName: 'hktang13',
+  projectName: 'tw-cat',
+  //i18n: {    defaultLocale: 'zh',    locales: ['en', 'zh'],  },
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -49,13 +49,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         items: [
           {
             type: 'doc',
-            docId: 'toc',
+            docId: 'toc/prologue',
             position: 'left',
-            label: '提纲',
+            label: '大纲',
           },
-          //{
-          //  type: 'localeDropdown',
-          //},
           {to: '/blog', label: '博客', position: 'left'},
           {
             href: 'https://github.com/hktang13/tw-cat',
@@ -73,10 +70,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               {
                 label: '技术写作',
                 to: '/docs/tech-writing/intro',
-              },
-              {
-                label: '文档工程',
-                to: '/docs/doc-engineering/intro',
               },
               {
                 label: '计算机辅助翻译',

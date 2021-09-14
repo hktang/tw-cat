@@ -1,4 +1,4 @@
-# Website
+# TW-CAT: Technical Writing and Computer-Assisted Translation
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
