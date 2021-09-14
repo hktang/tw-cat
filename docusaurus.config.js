@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 (module.exports = {
   title: 'TW-CAT',
   tagline: '技术写作与计算机辅助翻译',
-  url: 'https://tw-cat.vercel.com',
+  url: 'https://tw-cat.vercel.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
