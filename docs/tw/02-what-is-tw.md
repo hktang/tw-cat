@@ -11,12 +11,12 @@ sidebar_label: '2. 技术写作是什么？'
 你眼中的技术写作是什么？请举例说明。
 :::
 
-## 定义
+## 技术写作的定义
 
-对技术写作的定义五花八门。专门从事技术写作的咨询公司Instructional Solutions提到这样一个
-定义，但认为该定义并没有与时俱进：
+技术写作尚未有公认的定义。专门提供技术写作服务的咨询公司Instructional Solutions
+提到这样一个定义，但认为该定义并没有与时俱进：
 
-> Technical writing is the practice of **documenting processes*,
+> Technical writing is the practice of *documenting processes*,
 > such as software manuals or instructional materials. Traditionally,
 > it was limited to user manuals of some sort. [[1]]
 
@@ -33,30 +33,58 @@ sidebar_label: '2. 技术写作是什么？'
 > Technical writing is an *audience-centered means of communication* that
 > provides a reader with clear and easy access to information. [[3]]
 
-有人甚至采用一句话概括：
+还有想当精彩的一句话概括：
 
 > Technical writing is sometimes defined as *simplifying the complex*. [[4]]
 
-## 特征
+## 技术写作与创意写作的比较
 
-虽然各个定义的广度差别很大，但可以总结出一些特点：
+人们常常会将技术写作（technical writing）与创意写作（creative writing）视作两个对立面。
+维基百科对创意写作的描述如下：
 
-- 目的：传达实用信息
-- 受众：针对特定领域
-- 风格：强调简明扼要
+> Creative writing is any writing that goes outside the bounds of normal
+> *professional, journalistic, academic, or technical* forms of literature,
+> typically identified by an emphasis on narrative craft, character
+> development, and the use of literary tropes or with various traditions
+> of poetry and poetics. [[5]]
 
-我们将在接下来点几节中，从写作的角度来继续思考这个话题。
+结合创意写作的定义，请各位再思考这样一个问题：技术写作和创意写作有何不同？Jena (2009)[[6]]
+做了如下总结：
+
+|Technical Writing                         |Creative writing             |
+|:-----------------------------------------|:----------------------------|
+|Objective                                 |Subjective                   |
+|Factual, straight-forward                 |Imaginative, symbolic        |
+|Specific reader/audience                  |General reader/audience      |
+|Inform and instruct                       |Entertain, provoke, inspire  |
+|Formal and standard style                 |Informal and artistic        |
+|Specialized vocabulary                    |General, evocative vocabulary|
+|Sequentially and systematically organized |Arbitrary and artistic       |
+
+*资料来源 Jena (2009) [[6]]，已精简。*
+
+## 一种受控的创作
+
+![技术写作 vs 创意写作](/img/tw/tw-vs-cw.svg)
 
 ## 参考资料
 
-1. DuPuis, T. (2021). *What is technical writing*. Retrieved from [www.instructionalsolutions.com](https://www.instructionalsolutions.com/blog/what-is-technical-writing)
-2. *Technical Writing*. (2021). Retrieved from [en.wikipedia.org](https://en.wikipedia.org/wiki/Technical_writing)
-3. Lohman, E. (2017). *What is technical writing?* Retrieved from [courses.lumenlearning.com](https://courses.lumenlearning.com/technicalwriting/chapter/information-instructions-for-module-1_lecture-2/)
-4. Giordano, C. (2015). *What is technical writing*. Retrieved from [techwhirl.com](https://techwhirl.com/what-is-technical-writing/)
+1. DuPuis, T. (2021). *What is technical writing*.
+   Retrieved from [www.instructionalsolutions.com](https://www.instructionalsolutions.com/blog/what-is-technical-writing)
+2. *Technical Writing*. (2021).
+   Retrieved from [en.wikipedia.org](https://en.wikipedia.org/wiki/Technical_writing)
+3. Lohman, E. (2017). *What is technical writing?*
+   Retrieved from [courses.lumenlearning.com](https://courses.lumenlearning.com/technicalwriting/chapter/information-instructions-for-module-1_lecture-2/)
+4. Giordano, C. (2015). *What is technical writing*.
+   Retrieved from [techwhirl.com](https://techwhirl.com/what-is-technical-writing/)
+5. *Creative writing*. (2021).
+   Retrieved from [en.wikipedia.org](https://en.wikipedia.org/wiki/Creative_writing)
+6. Jena, S. (2020). *Difference between Technical Writing and Creative Writing*
+   Retrieved from: [geeksforgeeks.org](https://www.geeksforgeeks.org/difference-between-technical-writing-and-creative-writing/)
 
 [1]: https://www.instructionalsolutions.com/blog/what-is-technical-writing
 [2]: https://en.wikipedia.org/wiki/Technical_writing
 [3]: https://courses.lumenlearning.com/technicalwriting/chapter/information-instructions-for-module-1_lecture-2/
 [4]: https://techwhirl.com/what-is-technical-writing/
-
-<!--https://courses.lumenlearning.com/technicalwriting/-->
+[5]: https://en.wikipedia.org/wiki/Creative_writing
+[6]: https://www.geeksforgeeks.org/difference-between-technical-writing-and-creative-writing/
