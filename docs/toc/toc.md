@@ -18,16 +18,16 @@ sidebar_label: '2. 课程结构'
 本课程将分为两个板块，每个板块包括内容分享、实践和点评三个环节，具体如下。
 
 1. **技术写作**
-    1. 概览
-        1. 技术文档是什么？
+    1. [概览](/docs/tw/intro)
+        1. [技术写作是什么？](/docs/tw/what-is-tw)
         2. 常见的写作风格南介绍
-        3. 不同风格指南之间的差异
+        3. 不同风格指南之间的差异 <!-- compare -->
         4. 深入探讨一种通用的风格指南
         5. 中文风格指南及现状
-    2. 实践及点评：自选主题应用写作、互评
+    2. 实践及点评：自选主题应用写作、互评 <!-- steps -->
     3. 文档工程
        1. 内容的回归 <!--  Markdown -->
-       2. 技术写作技能树 <!-- Pandoc, Docusaurus, MkDocs, Sphinx -->
+       2. 技术写作技能树 <!-- Pandoc, Docusaurus, MkDocs, Sphinx, Bookdown -->
        3. 工具演示 <!-- Visual Studio Code、MacDown、Notepad++等 -->
     4. 实践篇
        1. 完善第2部分完成的作业

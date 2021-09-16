@@ -13,7 +13,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   favicon: 'img/favicon.ico',
   organizationName: 'hktang13',
   projectName: 'tw-cat',
-  //i18n: {    defaultLocale: 'zh',    locales: ['en', 'zh'],  },
+  i18n: {    defaultLocale: 'zh',    locales: ['zh'],  },
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -69,7 +69,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             items: [
               {
                 label: '技术写作',
-                to: '/docs/tech-writing/intro',
+                to: '/docs/tw/intro',
               },
               {
                 label: '计算机辅助翻译',
@@ -96,6 +96,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               {
                 label: 'GitHub',
                 href: 'https://github.com/hktang13/tw-cat',
+              },
+              {
+                label: 'Gitee',
+                href: 'https://gitee.com/hktang13/tw-cat',
               },
             ],
           },
