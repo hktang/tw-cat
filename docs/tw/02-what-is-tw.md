@@ -33,14 +33,14 @@ sidebar_label: '2. 技术写作是什么？'
 > Technical writing is an *audience-centered means of communication* that
 > provides a reader with clear and easy access to information. [[3]]
 
-还有想当精彩的一句话概括：
+还有相当精彩的一句话概括：
 
 > Technical writing is sometimes defined as *simplifying the complex*. [[4]]
 
 ## 技术写作与创意写作的比较
 
-人们常常会将技术写作（technical writing）与创意写作（creative writing）视作两个对立面。
-维基百科对创意写作的描述如下：
+人们常常会将技术写作（technical writing）与创意写作（creative writing）视作写作的
+两个对立面。维基百科对创意写作的描述如下：
 
 > Creative writing is any writing that goes outside the bounds of normal
 > *professional, journalistic, academic, or technical* forms of literature,
@@ -51,21 +51,30 @@ sidebar_label: '2. 技术写作是什么？'
 结合创意写作的定义，请各位再思考这样一个问题：技术写作和创意写作有何不同？Jena (2009)[[6]]
 做了如下总结：
 
-|Technical Writing                         |Creative writing             |
-|:-----------------------------------------|:----------------------------|
-|Objective                                 |Subjective                   |
-|Factual, straight-forward                 |Imaginative, symbolic        |
-|Specific reader/audience                  |General reader/audience      |
-|Inform and instruct                       |Entertain, provoke, inspire  |
-|Formal and standard style                 |Informal and artistic        |
-|Specialized vocabulary                    |General, evocative vocabulary|
-|Sequentially and systematically organized |Arbitrary and artistic       |
+| Technical Writing/技术写作                 | Creative writing/创意写作       |
+|:------------------------------------------|:------------------------------|
+| Objective                                 | Subjective                    |
+| Factual, straight-forward                 | Imaginative, symbolic         |
+| Specific reader or audienc                | General reader or audience    |
+| Inform and instruct                       | Entertain, provoke, inspire   |
+| Formal and standard style                 | Informal and artistic         |
+| Specialized vocabulary                    | General, evocative vocabulary |
+| Sequentially and systematically organized | Arbitrary and artistic        |
 
-*资料来源 Jena (2009) [[6]]，已精简。*
+*资料来源： Jena (2009) [[6]]，已精简。*
 
-## 一种受控的创作
+## 一种受控的创作形式
+
+将上面的表格以雷达图的形式展现后可以看到，出于客观性、语言简洁性、目标读者等考虑，
+技术写作实际上是一种“受控”的创作形式。它刻意放弃了一部分文字表达的巨大潜力，
+通过这样的牺牲，换取一种**标准化**、**可预测**、**可复现**的文体。
 
 ![技术写作 vs 创意写作](/img/tw/tw-vs-cw.svg)
+
+*图表来源：作者。*
+
+如何实现上述标准化、可预测、可复现的文本？请翻页查看本课程关注的一大重点，
+下节详述的“语言风格规范”。
 
 ## 参考资料
 
