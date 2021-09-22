@@ -45,7 +45,7 @@ sidebar_label: 'The Elements of Style'
 5. An approach to styles (with a list of reminders)
 
 实际上，只有第一章才设计我们传统意义上的“语法”，其它各章则侧重句子和文章的结构
-（例：[第二章](6)），在最新版本中还加入了一些关于写作的一般性建议。
+（例：[第二章][6]），在最新版本中还加入了一些关于写作的一般性建议。
 
 ## 参考资料
 
@@ -58,11 +58,10 @@ sidebar_label: 'The Elements of Style'
 4. See Note #4.
 5. Strunk, W., & White, E. B. (2000). *The elements of style, 4th edition:*
    *Table of contents*. Retrieved from [www.pearson.com](https://www.pearson.com/store/p/elements-of-style-the/P100001346898/9780205309023?tab=table-of-contents)
-6. Strunk, W., & White, E. B. (2000). *Elementary principles of composition*, In
-   W. Strunk, &, E. B. White. (2000) The elements of style, 4th edition.
-   Retrieved from: [waseda.jp](http://www.f.waseda.jp/sidoli/composition.html)
 
 [1]: https://www.gb-advisors.com/process-standardization/
 [2]: https://www.nytimes.com/2009/04/22/books/22elem.html
 [3]: https://entertainment.time.com/2011/08/30/all-time-100-best-nonfiction-books/slide/elements-of-style-by-strunk-and-white/
+[4]: https://www.nytimes.com/2009/04/22/books/22elem.html
 [5]: https://www.pearson.com/store/p/elements-of-style-the/P100001346898/9780205309023?tab=table-of-contents
+[6]: http://www.f.waseda.jp/sidoli/composition.html
