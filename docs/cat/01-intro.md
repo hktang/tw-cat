@@ -1,6 +1,8 @@
 ---
 sidebar_position: 1
-sidebar_label: '简介'
+sidebar_label: '1. 简介'
 ---
 
-# Congratulations!
+# 1. 计算机辅助翻译：简介
+
+![Work in progress](/img/cat/wip.gif)
