@@ -11,4 +11,4 @@ sidebar_label: '1. 写在前面'
 
 ![Tech reliance](/img/tw/20191115-chitty-defenestration.jpg)
 
-*图片来源：[wired.com](https://www.wired.com/story/wired-cartoons-week-13/)*
+*图1. 如何解决技术问题。来源：[wired.com](https://www.wired.com/story/wired-cartoons-week-13/)*

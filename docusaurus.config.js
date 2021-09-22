@@ -6,14 +6,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 (module.exports = {
   title: 'TW-CAT',
   tagline: '技术写作与计算机辅助翻译',
-  url: 'https://tw-cat.vercel.app',
+  url: 'https://tw-cat.onrender.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'hktang13',
   projectName: 'tw-cat',
-  i18n: {    defaultLocale: 'zh',    locales: ['zh'],  },
+  i18n: {defaultLocale: 'zh', locales: ['zh']},
   presets: [
     [
       '@docusaurus/preset-classic',

@@ -5,7 +5,7 @@ authors: xiaojun
 tags: [进度]
 ---
 
-最新进度：
+进度：
 
 - 大纲部分的初稿已完成。
 - 项目已集成到[Vercel](https://tw-cat.vercel.app)。
