@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        拒绝纸上谈兵。快速上手的唯一办法：Get our hands dirty！
+        拒绝纸上谈兵。快速上手的唯一办法：Get our hands dirty 🔧。
       </>
     ),
   },

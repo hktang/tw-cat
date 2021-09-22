@@ -55,7 +55,7 @@ sidebar_label: '2. 技术写作是什么？'
 |:------------------------------------------|:------------------------------|
 | Objective                                 | Subjective                    |
 | Factual, straight-forward                 | Imaginative, symbolic         |
-| Specific reader or audienc                | General reader or audience    |
+| Specific reader or audience               | General reader or audience    |
 | Inform and instruct                       | Entertain, provoke, inspire   |
 | Formal and standard style                 | Informal and artistic         |
 | Specialized vocabulary                    | General, evocative vocabulary |

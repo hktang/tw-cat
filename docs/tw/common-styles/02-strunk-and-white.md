@@ -5,7 +5,7 @@ sidebar_label: 'The Elements of Style'
 
 # The Elements of Style
 
-## 简介
+## 一本经典“小书”
 
 谈到语文规范，不得不提 Will Strunk 和 E. B. White 的 *The Elements of Style*。
 这本“小书”为美国康奈尔大学英文系教授 Strunk 于 1919 年出版[[1]]。
@@ -16,16 +16,16 @@ sidebar_label: 'The Elements of Style'
 
 *图1. The Elements of Style 第四版封面。*
 
-## 评价
+## 对该书的评价
 
-时至今日，该书已经再版三次，累计销量超千万本，跻身美国极具影响力的书籍之列，
-甚至成为高中毕业生进学礼物的“标配”，年轻写作者案头必备的“圣书”。[[2]]
+时至今日，该书已经再版三次，累计销量超千万本，已跻身美国极具影响力的书籍之列，
+甚至成为高中毕业生进学礼物的“标配”以及文字工作者案头必备的“圣书”。[[2]]
 2011 年，该书被《时代》杂志评为 1923 年以来最具影响力的百本非虚构类书籍之一，[[3]]
 如今，人们更多地以作者的名字 “Strunk and White” 作为对这本书的爱称。
 
 ![Strunk&White, badge](/img/tw/strunk_and_white.png)
 
-*图2. 著名程序员问答社区 StackOverflow.com 为热心编辑问题和答案的用户提供的勋章。*
+*图2. 程序员问答社区 StackOverflow.com 为热心编辑问题和答案的用户提供的勋章。*
 
 美国诗人Dorothy Parker（1893-1967）在给年轻作者的忠告时这样说：
 
@@ -34,7 +34,7 @@ sidebar_label: 'The Elements of Style'
 > of ‘The Elements of Style.’ The first-greatest, of course, is to
 > shoot them now, while they’re happy. — Dorothy Parker [[4]]
 
-## 提纲
+## 第四版的目录
 
 那么，这是一本语法书吗？不完全是。我们不妨看看它的目录[[5]]：
 
