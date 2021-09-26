@@ -25,7 +25,7 @@ sidebar_label: 'The Elements of Style'
 
 ![Strunk&White, badge](/img/tw/strunk_and_white.png)
 
-*图2. 程序员问答社区 StackOverflow.com 为热心编辑问题和答案的用户提供的勋章。*
+*图2. 程序员问答社区 StackOverflow 为热心编辑问题和答案的用户提供的勋章。*
 
 美国诗人Dorothy Parker（1893-1967）在给年轻作者的忠告时这样说：
 
@@ -38,13 +38,13 @@ sidebar_label: 'The Elements of Style'
 
 那么，这是一本语法书吗？不完全是。我们不妨看看它的目录[[5]]：
 
-1. Elementary rules of usage.
-2. Elementary rules of composition.
-3. A few matters of form.
-4. Words and expressions commonly misused.
+1. Elementary rules of usage
+2. Elementary rules of composition
+3. A few matters of form
+4. Words and expressions commonly misused
 5. An approach to styles (with a list of reminders)
 
-实际上，只有第一章才设计我们传统意义上的“语法”，其它各章则侧重句子和文章的结构
+实际上，只有第一章才涉及我们传统意义上的“语法”，其它各章则侧重句子和文章的结构
 （例：[第二章][6]），在最新版本中还加入了一些关于写作的一般性建议。
 
 ## 参考资料
@@ -55,7 +55,7 @@ sidebar_label: 'The Elements of Style'
    [www.nytimes.com](https://www.nytimes.com/2009/04/22/books/22elem.html)
 3. Skarda, E. (2011). *All-TIME 100 nonfiction books: The elements of style*. Retrieved from
    [entertainment.time.com](https://entertainment.time.com/2011/08/30/all-time-100-best-nonfiction-books/slide/elements-of-style-by-strunk-and-white/)
-4. See Note #4.
+4. See Note #2.
 5. Strunk, W., & White, E. B. (2000). *The elements of style, 4th edition:*
    *Table of contents*. Retrieved from [www.pearson.com](https://www.pearson.com/store/p/elements-of-style-the/P100001346898/9780205309023?tab=table-of-contents)
 
