@@ -1,9 +1,9 @@
 ---
 sidebar_position: 2
-sidebar_label: 'The Elements of Style'
+sidebar_label: '3.2 The Elements of Style'
 ---
 
-# The Elements of Style
+# 3.2 The Elements of Style
 
 ## 一本经典“小书”
 
@@ -32,9 +32,9 @@ sidebar_label: 'The Elements of Style'
 > If you have any young friends who aspire to become writers,
 > the second-greatest favor you can do them is to present them with copies
 > of ‘The Elements of Style.’ The first-greatest, of course, is to
-> shoot them now, while they’re happy. — Dorothy Parker [[4]]
+> shoot them now, while they’re happy. — *Dorothy Parker* [[4]]
 
-## 第四版的目录
+## 第四版目录
 
 那么，这是一本语法书吗？不完全是。我们不妨看看它的目录[[5]]：
 
