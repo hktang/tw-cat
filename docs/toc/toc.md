@@ -20,7 +20,7 @@ sidebar_label: '2. 课程结构'
 1. **技术写作**
     1. [概览](/docs/tw/intro)
         1. [技术写作是什么？](/docs/tw/what-is-tw)
-        2. [语言风格南](/docs/tw/common-styles/intro)
+        2. [语言风格指南](/docs/tw/common-styles/intro)
         3. [几种风格指南的比较](/docs/tw/common-styles/compare)
         4. 深入探讨一种风格指南
         5. 中文风格指南及现状
