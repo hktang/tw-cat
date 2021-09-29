@@ -1,9 +1,9 @@
 ---
 sidebar_position: 2
-sidebar_label: '3.2 The Elements of Style'
+sidebar_label: '3.2 Strunk and White'
 ---
 
-# 3.2 The Elements of Style
+# 3.2 Strunk and White
 
 ## 一本经典“小书”
 

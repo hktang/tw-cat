@@ -24,9 +24,9 @@ sidebar_label: '3.3 几种风格指南的比较'
 
 学术出版界常用的风格指南有：
 
-|名称|出版方|当前版本|应用领域|注|
-|:-----|:-----|:-----|:-----|:-----|
-|Chicago Manual of Style [[1]] |美国芝加哥大学出版社| 第 17 版| 人文社科类| 简称 CMOS |
+|名称                           |出版方            |当前版本 |应用领域  |注       |
+|:-----                        |:-----           |:-----  |:-----   |:-----   |
+|Chicago Manual of Style [[1]] |美国芝加哥大学出版社| 第 17 版| 人文社科类|简称 CMOS|
 |APA Style Guide [[2]]      |美国心理学会        |第 7 版  |行为科学、社会科学| |
 |MLA Handbook [[3]]         |美国现代语言学会     |第 9 版  |人文     | |
 |IEEE Editorial Manual [[4]]|美国电气电子工程师学会|2021 版 |计算机科学 |以 CMOS 为蓝本|
@@ -121,8 +121,8 @@ sidebar_label: '3.3 几种风格指南的比较'
    [journals.ieeeauthorcenter.ieee.org](https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE-Editorial-Style-Manual-for-Authors.pdf)
 5. AMA. (2021). *AMA manual of style*. Retrieved from
    [www.amamanualofstyle.com](https://www.amamanualofstyle.com/)
-6. Cridland, D. (2016). *Dave Cridland's answer to What is the equivalent of
-   The Chicago Manual of Style for British English? - Quora*. Retrieved from
+6. Cridland, D. (2016). *Dave Cridland's answer to 'What is the equivalent of
+   The Chicago Manual of Style for British English?' - Quora*. Retrieved from
    [www.quora.com](https://qr.ae/pGS3ub)
 7. *New Oxford style manual* (2016). Retrieved from
    [global.oup.com](https://global.oup.com/academic/product/new-oxford-style-manual-9780198767251?cc=jp&lang=en&)
