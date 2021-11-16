@@ -12,6 +12,10 @@
 
 /assignments/*
 
+# Work in Progress
+
+wip-*.md
+
 # Misc
 .DS_Store
 .env.local
