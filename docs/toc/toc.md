@@ -23,7 +23,7 @@ sidebar_label: '2. 课程结构'
     3. [语言风格指南](/docs/tw/common-styles/intro)
     4. [作业一：内容规划与写作](/docs/tw/assignment-1)
     5. [作业一点评：用风格指南指导写作](/docs/tw/using-styles)
-    6. [中文风格指南及现状](/docs/tw/chinese-guides)
+    6. [中文风格指南及现状]<!-- ( /docs/tw/chinese-guides ) -->
     7. 文档工程
        1. 内容的回归 <!--  Markdown -->
        2. 技术写作技能树 <!-- Pandoc, Docusaurus, MkDocs, Sphinx, Bookdown -->
