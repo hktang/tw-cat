@@ -14,7 +14,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   organizationName: 'hktang13',
   projectName: 'tw-cat',
   i18n: {defaultLocale: 'zh', locales: ['zh']},
-  plugins: ['@docusaurus/plugin-google-analytics'],
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -41,9 +40,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      googleAnalytics: {
-        trackingID: 'UA-294477239-1',
-      },
       navbar: {
         title: 'TW-CAT',
         logo: {
@@ -113,6 +109,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+      },
+      googleAnalytics: {
+        trackingID: 'UA-294477239-1',
       },
     }),
 });
