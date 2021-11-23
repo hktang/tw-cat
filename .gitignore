@@ -8,9 +8,10 @@
 .docusaurus
 .cache-loader
 
-# Assignments
+# Assignments and demo
 
 /assignments/*
+/demo
 
 # Work in Progress
 
