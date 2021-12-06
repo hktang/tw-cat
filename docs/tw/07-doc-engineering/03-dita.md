@@ -1,9 +1,9 @@
 ---
 sidebar_position: 3
-sidebar_label: '7.3 DITA'
+sidebar_label: '7.3 DITA 简介'
 ---
 
-# 7.3 DITA
+# 7.3 DITA 简介
 
 在基于XML的技术出版领域，DITA（Darwin Information Typing Architecture）
 是最常用的XML标准。DITA由IBM技术出版部开发，2004年捐赠给
