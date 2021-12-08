@@ -17,11 +17,11 @@ sidebar_label: '6. 中文的风格指南和现状'
 从以下的例子可以看到，明清时代的科技类文献仍保留了汉语在口头和书面沟通上
 “文白差异”、“文言分离”的特点。设想如果用白话文书写，这些概念是否会更容易传播呢？
 
-![Euclid's Elements](/img/tw/geometry-zh.jpg)
+![Euclid's Elements](../../static/img/tw/geometry-zh.jpg)
 
 *图1. 《几何原本》六卷初刊本。来源：[shuge.org](https://new.shuge.org/view/ji_he_yuan_ben/)*
 
-![Calculus textbook witten in the 19th century](/img/tw/calculus-zh.jpg)
+![Calculus textbook witten in the 19th century](../../static/img/tw/calculus-zh.jpg)
 
 *图2. 清代的微积分课本。来源：[youtube.com](https://youtu.be/BA3f_-J_Gmc)*
 

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+  <title>Technical writing</title>
+  <topicref href="docs/tw/03-common-styles/01-intro.md" format="markdown"/>
+  <topicref href="docs/tw/03-common-styles/02-strunk-and-white.md" format="markdown"/>
+  <topicref href="docs/tw/03-common-styles/03-compare.md" format="markdown"/>
+  <topicref href="docs/tw/04-assignment-1.md" format="markdown"/>
+</map>

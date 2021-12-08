@@ -12,7 +12,7 @@ sidebar_label: '3.2 Strunk and White'
 1957年，Strunk 当年的学生、时任《纽约客》杂志作者的 White 重新“发现”该书，
 两人对原书做了一定的增订，与1959年发行了第二版，随后获得了极高的评价。
 
-![Strunk&White, 4th Edition](/img/tw/eos_cover.jpg)
+![Strunk&White, 4th Edition](../../../static/img/tw/eos_cover.jpg)
 
 *图1. The Elements of Style 第四版封面。*
 
