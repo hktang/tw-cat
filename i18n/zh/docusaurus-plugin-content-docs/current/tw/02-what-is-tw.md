@@ -1,9 +1,9 @@
 ---
 sidebar_position: 2
-sidebar_label: '2. What is technical writing'
+sidebar_label: '2. 技术写作是什么？'
 ---
 
-# 2. What is technical writing
+# 2. 技术写作是什么？
 
 开始前，请各位思考一个问题：
 

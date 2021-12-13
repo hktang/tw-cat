@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-sidebar_label: '4. Assignment 1'
+sidebar_label: '4. 作业一：内容规划与写作'
 ---
 
 # 4. Assignment 1: Content planning and development

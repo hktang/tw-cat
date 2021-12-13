@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-sidebar_label: '7.5 Markdown 简介'
+sidebar_label: '7.5 Enters Markdown'
 ---
 
 # 7.5 Markdown 简介

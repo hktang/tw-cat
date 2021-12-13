@@ -1,6 +1,6 @@
 ---
 sidebar_position: 6
-sidebar_label: '6. 中文的风格指南和现状'
+sidebar_label: '6. Chinese guides'
 ---
 
 # 6. 中文的风格指南和现状

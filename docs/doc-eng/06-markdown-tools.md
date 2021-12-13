@@ -1,6 +1,6 @@
 ---
 sidebar_position: 6
-sidebar_label: '7.6 Markdown 文档生成工具'
+sidebar_label: '7.6 Static site generators'
 ---
 
 # 7.5 Markdown 文档生成工具

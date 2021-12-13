@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
   title: 'TW-CAT',
-  tagline: '技术写作与计算机辅助翻译',
+  tagline: 'Technical writing and computer-assisted translation',
   url: 'https://tw-cat.onrender.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -13,7 +13,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   favicon: 'img/favicon.ico',
   organizationName: 'hktang13',
   projectName: 'tw-cat',
-  i18n: {defaultLocale: 'zh', locales: ['zh']},
+  i18n: {defaultLocale: 'en', locales: ['en','zh']},
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -56,9 +56,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             type: 'doc',
             docId: 'toc/prologue',
             position: 'left',
-            label: '课程',
+            label: 'Course',
           },
-          {to: '/blog', label: '日志', position: 'left'},
+          {to: '/blog', label: 'Blog', position: 'left'},
           {
             type: 'localeDropdown',
             position: 'right',
@@ -74,20 +74,24 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         style: 'dark',
         links: [
           {
-            title: '模块',
+            title: 'Modules',
             items: [
               {
-                label: '技术写作',
+                label: 'Technical writing',
                 to: '/docs/tw/intro',
               },
               {
-                label: '计算机辅助翻译',
+                label: 'Doc engineering',
+                to: '/docs/doc-eng/intro',
+              },
+              {
+                label: 'Computer-aided translation',
                 to: '/docs/cat/intro',
               },
             ],
           },
           {
-            title: '链接',
+            title: 'Links',
             items: [
               {
                 label: 'Docusaurus',
@@ -100,7 +104,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             ],
           },
           {
-            title: '源码',
+            title: 'Source code',
             items: [
               {
                 label: 'GitHub',

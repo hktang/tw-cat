@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-sidebar_label: '5. Feedback on assignment 1'
+sidebar_label: '5. 作业一点评'
 ---
 
 # 5. 作业一点评

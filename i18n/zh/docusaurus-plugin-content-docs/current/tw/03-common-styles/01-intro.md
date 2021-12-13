@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-sidebar_label: '3.1 Introduction'
+sidebar_label: '3.1 简介'
 ---
 
 # 3.1 语言风格指南：简介

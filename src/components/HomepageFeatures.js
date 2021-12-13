@@ -1,33 +1,45 @@
 import React from 'react';
 import clsx from 'clsx';
 import styles from './HomepageFeatures.module.css';
+import Translate, {translate} from '@docusaurus/Translate';
 
 const FeatureList = [
   {
-    title: '分享',
+    title: translate({
+      message: 'Share',
+      description: 'Heading for features',
+    }),
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
-      <>
-        分享文档工程、技术翻译、软件汉化等基本工具的应用。
-      </>
+      <Translate>
+        Share practical information on technical writing, doc engineering
+        and computer-aided translation.
+      </Translate>
     ),
   },
   {
-    title: '实操',
+    title: translate({
+      message: 'Tinker',
+      description: 'Heading for features',
+    }),
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
-      <>
-        拒绝纸上谈兵。快速上手的唯一办法：Get our hands dirty 🔧。
-      </>
+      <Translate>
+        Not just talk on paper. The only way to get started fast:
+        get your hands dirty 🔧.
+      </Translate>
     ),
   },
   {
-    title: '反馈',
+    title: translate({
+      message: 'Feedback',
+      description: 'Heading for features',
+    }),
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
-      <>
-        欢迎感兴趣的小伙伴加入讨论、修订，丰富这个课程。
-      </>
+      <Translate>
+        Join the discussion, revise and enrich this course.
+      </Translate>
     ),
   },
 ];

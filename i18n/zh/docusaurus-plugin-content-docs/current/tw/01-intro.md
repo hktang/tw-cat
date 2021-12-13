@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-sidebar_label: '1. Before we start'
+sidebar_label: '1. 写在前面'
 ---
 
 # 1. 写在前面

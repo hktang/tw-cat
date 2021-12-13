@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-sidebar_label: '3.3 几种风格指南的比较'
+sidebar_label: '3.3 Selected guides'
 ---
 
 # 3.3 几种风格指南的比较

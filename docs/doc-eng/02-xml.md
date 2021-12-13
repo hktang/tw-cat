@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-sidebar_label: '7.2 关于XML'
+sidebar_label: '7.2 About XML'
 ---
 
 # 7.2 关于XML

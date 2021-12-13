@@ -1,0 +1,26 @@
+{
+  "version.label": {
+    "message": "下一页",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.About": {
+    "message": "关于",
+    "description": "The label for category About in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Technical writing": {
+    "message": "技术写作",
+    "description": "The label for category Technical writing in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.3. Style guides": {
+    "message": "3. 风格指南",
+    "description": "The label for category 3. Style guides in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Documentation engineering": {
+    "message": "文档工程",
+    "description": "The label for category Documentation engineering in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Computer-aided translation": {
+    "message": "计算机辅助翻译",
+    "description": "The label for category Computer-aided translation in sidebar tutorialSidebar"
+  }
+}

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-sidebar_label: '7.1 简介'
+sidebar_label: '7.1 Introduction'
 ---
 
 # 7.1 文档工程简介

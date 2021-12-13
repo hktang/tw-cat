@@ -1,0 +1,46 @@
+{
+  "link.item.label.Docusaurus": {
+    "message": "Docusaurus",
+    "description": "The label of footer link with label=Docusaurus linking to https://docusaurus.io/"
+  },
+  "link.item.label.Markdown": {
+    "message": "Markdown",
+    "description": "The label of footer link with label=Markdown linking to https://daringfireball.net/projects/markdown/syntax"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/hktang13/tw-cat"
+  },
+  "link.item.label.Gitee": {
+    "message": "Gitee",
+    "description": "The label of footer link with label=Gitee linking to https://gitee.com/hktang13/tw-cat"
+  },
+  "copyright": {
+    "message": "Copyright © 2021 TW-CAT. Built with Docusaurus.",
+    "description": "The footer copyright"
+  },
+  "link.title.Modules": {
+    "message": "模块",
+    "description": "The title of the footer links column with title=Modules in the footer"
+  },
+  "link.title.Links": {
+    "message": "链接",
+    "description": "The title of the footer links column with title=Links in the footer"
+  },
+  "link.title.Source code": {
+    "message": "源码",
+    "description": "The title of the footer links column with title=Source code in the footer"
+  },
+  "link.item.label.Technical writing": {
+    "message": "技术写作",
+    "description": "The label of footer link with label=Technical writing linking to /docs/tw/intro"
+  },
+  "link.item.label.Doc engineering": {
+    "message": "文档工程",
+    "description": "The label of footer link with label=Doc engineering linking to /docs/doc-eng/intro"
+  },
+  "link.item.label.Computer-aided translation": {
+    "message": "计算机辅助翻译",
+    "description": "The label of footer link with label=Computer-aided translation linking to /docs/cat/intro"
+  }
+}

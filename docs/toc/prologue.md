@@ -1,38 +1,42 @@
 ---
 sidebar_position: 1
-sidebar_label: '1. 关于本课程'
+sidebar_label: '1. About'
 ---
 
-# 1. 关于本课程
+# 1. About this course
 
-## 1.1 简介
+## 1.1 Introduction
 
-你好！欢迎来到“技术写作和计算机辅助翻译”课程。本课程分为两个模块，
-通过介绍技术写作和翻译工程领域内的一些实践，增加学员对该领域知识和技能要求的了解，
-激发学员的兴趣，为今后从事相关领域的工作或研究做准备。
+Hello! Welcome to *Technical Writing and Computer-Assisted Translation*.
+This two-module course provides introductory information on the knowledge and
+skills required in the field of technical writing and translation.
+We will look at real-life examples that will prepare you for your future
+research and practice.
 
-## 1.2 目标
+## 1.2 Goals
 
-课程结束后，你将会：
+By the end of the course, you should:
 
-- 了解常见的语言风格规范及其的构成部分
-- 了解英文技术写作的一些关键原则
-- 学会利用学到的知识编写优雅的英文技术文档
-- 学会借助一款常见的软件编译你的文档
-- 了解常见的计算机辅助翻译工具和它的工作原理
-- 通过实际操作，为编译好的文档提供多语言版本
-- 了解一些可以提高翻译质量和效率的常见技巧
+- Be familiar with common style guides and their components
+- Understand the key principles of technical writing in English
+- Develop elegant technical documents in English
+- Compile your documents using selected software tools
+- Be familiar with common computer-assisted translation tools
+- Prepare your documentation for internationalization
+- Be familiar with common techniques for effective translations
 
-:::info 提示
-本教程用 Markdown 写成，采用了 Docusaurus 这款工具来生成静态站点。
+:::info
+This tutorial is written in Markdown and uses the static site generator
+Docusaurus.
 :::
 
-## 1.3 预期成果
+## 1.3 Expected output
 
-本课程的预期成果是完成一个类似的文档站点或者一套简单的Markdown文档。
+You will learn to develop a similar documentation site or a simple set of
+Markdown documents.
 
-课程的内容和源代码都托管在 GitHub.com 上面，欢迎小伙伴们通过提交 issue 或
-pull request 来完善它。
+The content and source code for this course are hosted on GitHub.com. 
+Feel free to submit an issue or pull request to improve it!
 
-如果上面那几个英文单词显得突兀，请不要担心，课程结束后你应该可以充满自信的说
-“been there and done that”。
+Don't worry if things seem out of place. By the end of the course,
+you should be able to say "been there and done that", with confidence.

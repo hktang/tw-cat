@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-sidebar_label: '2. Course structure'
+sidebar_label: '2. 课程结构'
 ---
 
 # 2. 课程结构

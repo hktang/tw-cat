@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-sidebar_label: '7.4 DITA 的优缺点'
+sidebar_label: '7.4 Pros and cons of DITA'
 ---
 
 # 7.4 DITA 的优缺点
