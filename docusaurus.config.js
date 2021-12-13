@@ -37,6 +37,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
     ],
   ],
 
+  i18n: {
+    defaultLocale: 'zh',
+    locales: ['en', 'zh'],
+  },
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -54,6 +59,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             label: '课程',
           },
           {to: '/blog', label: '日志', position: 'left'},
+          {
+            type: 'localeDropdown',
+            position: 'right',
+          },
           {
             href: 'https://github.com/hktang13/tw-cat',
             label: 'GitHub',
