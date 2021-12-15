@@ -22,5 +22,9 @@
   "sidebar.tutorialSidebar.category.Computer-aided translation": {
     "message": "计算机辅助翻译",
     "description": "The label for category Computer-aided translation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Doc engineering": {
+    "message": "文档工程",
+    "description": "The label for category Doc engineering in sidebar tutorialSidebar"
   }
 }
