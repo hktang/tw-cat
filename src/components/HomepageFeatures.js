@@ -7,7 +7,7 @@ const FeatureList = [
   {
     title: translate({
       message: 'Share',
-      description: 'Heading for features',
+      description: 'Heading for the features section. Please keep the translation short and sweet.',
     }),
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
@@ -20,7 +20,7 @@ const FeatureList = [
   {
     title: translate({
       message: 'Tinker',
-      description: 'Heading for features',
+      description: 'Heading for the features section. Please keep the translation short and sweet.',
     }),
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
@@ -33,7 +33,7 @@ const FeatureList = [
   {
     title: translate({
       message: 'Feedback',
-      description: 'Heading for features',
+      description: 'Heading for the features section. Please keep the translation short and sweet.',
     }),
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
